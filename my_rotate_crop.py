@@ -10,6 +10,7 @@ import os
 import numpy as np
 import math
 
+#####################
 img_path = '/home/elgong/Desktop/my_code/img/'
 mask_path = '/home/elgong/Desktop/my_code/mask/'
 ro_img = '/home/elgong/Desktop/my_code/rotate_img/'
